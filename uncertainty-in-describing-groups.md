@@ -1,9 +1,5 @@
 # Uncertainty in describing groups
 
-{% hint style="info" %}
-Context note: this is a sub-part of the [fundamental concepts of statistics](data-analysis-fundamental-concepts-of-statistics.md) section of the [computational literacy for humanities and social sciences course](./). You can use this to teach yourself some fundamental concepts of statistics. However, if you want to understand more broadly when you might want to use them, you're better off going through the whole course.
-{% endhint %}
-
 In [this dataset](https://pxnet2.stat.fi/PXWeb/pxweb/en/StatFin/StatFin__vrm__kuol/statfin_kuol_pxt_12ag.px/) of the age at death of the two million Finns (2 027 385 to be exact) who died between 1980 to 2020, we have a (near-)perfect record. Almost every single person who died during that timespan is listed in the dataset, and visible in the distribution below:
 
 ![](.gitbook/assets/c1719449-6a27-4899-9fe2-054965b8c9d7.png)

@@ -1,9 +1,5 @@
 # Understanding relationships
 
-{% hint style="info" %}
-Context note: this is a sub-part of the [fundamental concepts of statistics](data-analysis-fundamental-concepts-of-statistics.md) section of the [computational literacy for humanities and social sciences course](./). You can use this to teach yourself some fundamental concepts of statistics. However, if you want to understand more broadly when you might want to use them, you're better off going through the whole course.
-{% endhint %}
-
 Sometimes, we are not interested in either describing groups or validating their differences. Instead, we may be interested in relationships between variables. For example, we might want to [know](https://ourworldindata.org/life-expectancy#what-drives-improvements-in-life-expectancy) how much income level affects life expectancy, and even compare that to the effect of sex and healthcare expenditure. This is an area of statistics that quickly grows in complexity (see e.g. [Bayesian probabilistic modeling](https://doi.org/10.1038/s43586-020-00001-2)). For this short introduction, we will thus only limit ourselves to the most simple of methods, intended to just convey the general gist of what these are about.
 
 When wanting to evaluate the relationship between two numerical variables (e.g. life expectancy and healthcare spending), the simplest approach is to look at their correlation. Correlation measures the extent to which the variables are linearly related, i.e. have a relationship where if one variable grows a certain amount, the second variable either grows or diminishes a proportional amount (e.g. that for every 100 million spent into healthcare, life expectancy would increase by a year - note also that as stated, correlation only accounts for linear relationships, so, for example, would not be able to model diminishing returns in healthcare spending, etc).

@@ -7,6 +7,5 @@
 * [What is a sensible group to describe?](what-is-a-sensible-group-to-describe.md)
 * [Comparing groups](comparing-groups.md)
 * [Understanding relationships](understanding-relationships.md)
-* [Data analysis: fundamental concepts of statistics](data-analysis-fundamental-concepts-of-statistics.md)
 * [Where to continue?](where-to-continue.md)
 * [Course instances](course-instances.md)
