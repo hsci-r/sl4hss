@@ -1,10 +1,6 @@
 # Understanding and describing groups
 
-{% hint style="info" %}
-Context note: this is a sub-part of the [fundamental concepts of statistics](data-analysis-fundamental-concepts-of-statistics.md) section of the [computational literacy for humanities and social sciences course](./). You can use this to teach yourself some fundamental concepts of statistics. However, if you want to understand more broadly when you might want to use them, you're better off going through the whole course.
-{% endhint %}
-
-Consider [this dataset](https://pxnet2.stat.fi/PXWeb/pxweb/en/StatFin/StatFin__vrm__kuol/statfin_kuol_pxt_12ag.px/) of the age at death of the two million Finns (2 027 385 to be exact) who died between 1980 to 2020. While aggregated in the original, the data essentially contains the following information:
+Consider [this dataset](https://pxdata.stat.fi/PxWeb/sq/83962e00-99d5-4a05-a82b-f5aaa9755561) of the age at death of the two million Finns (2 027 385 to be exact) who died between 1980 to 2020. While aggregated in the original, the data essentially contains the following information:
 
 <table><thead><tr><th>Sex</th><th data-type="number">Year of death</th><th data-type="number">Age at death</th></tr></thead><tbody><tr><td>Male</td><td>1980</td><td>86</td></tr><tr><td>Male</td><td>1980</td><td>76</td></tr><tr><td>Male</td><td>1980</td><td>76</td></tr><tr><td>Female</td><td>1980</td><td>75</td></tr><tr><td>Male</td><td>1981</td><td>96</td></tr><tr><td>... (for a longer sample of 1000 people, see <a href="https://docs.google.com/spreadsheets/d/1xd1HJCJdOthA8PN97Xcr0yu_NFCy6iDVjn8vuAOLALk/edit?usp=sharing">here</a>)</td><td>null</td><td>null</td></tr></tbody></table>
 
